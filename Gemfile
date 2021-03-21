@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+  gem 'selenium-webdriver'
+  gem 'rspec'
+  gem 'rspec-expectations'
+  gem 'require_all'
+  gem 'yaml_extend'
+  gem 'cucumber', '~> 3.1', '>= 3.1.2'
+  gem 'logger', '~> 1.3.0'
+  gem 'git'
+  gem 'rest-client'
+  gem 'webdriver_manager'
+  gem 'geckodriver-helper'
